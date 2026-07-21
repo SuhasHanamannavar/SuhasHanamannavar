@@ -1,79 +1,111 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=F7F7F7¢er=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=I+don't+stop+until+it+works;18+year+old+builder;Shipping+real+code+since+2024" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=radial&color=0:0D1117,50:00FF9F,100:0D1117&height=300§ion=header&text=SUHAS%20HANAMANNAVAR&fontSize=50&fontColor=00FF9F&fontAlignY=35&desc=18%20|%20BUILDER%20|%20SHIPPING%20CODE&descSize=18&descAlignY=55&animation=twinkling" width="100%"/>
+
+</div>
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1500&pause=300&color=00FF9F¢er=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=I+don't+sleep+until+it+works;%F0%9F%94%A5+18+year+old+building+things+that+matter;%E2%9A%A1+Shipping+real+code+since+2024)
 
 </div>
 
 ---
 
-## 😎 Who Am I?
+<div align="center">
 
-**Suhas Hanamannavar** — 18-year-old builder from Bangalore who doesn't know when to quit.
+╔══════════════════════════════════════════════════════════════╗
+║  > SYSTEM STATUS: ONLINE                                    ║
+║  > AGE: 18 | LOCATION: BANGALORE, INDIA                     ║
+║  > STATUS: BUILDING THINGS THAT WORK                        ║
+║  > SLEEP SCHEDULE: WHAT SLEEP SCHEDULE?                     ║
+║  > CURRENT_QUEST: FIND_A_TEAM_THAT_SHIPS                    ║
+╚══════════════════════════════════════════════════════════════╝
 
-I don't do "hello world" projects. I build **real things** that solve **real problems**.
-
-When I built ShadowNet, I stayed up until **4 AM** debugging WebSocket connections. Most people would've given up. I rewrote the whole thing **three times**. That's how I operate.
+</div>
 
 ---
 
-## 🔥 What I've Built
+## `> ls projects/ --sort=awesome`
 
 <table>
 <tr>
 <td width="50%">
 
-### 🛡️ ShadowNet
-**AI-Powered Threat Intelligence Platform**
-- Runs 4 honeypots simultaneously
-- 22-dimensional ML classification
-- Classifies attackers in <100ms
-- Real-time SOC dashboard
+┌─────────────────────────────────────┐
+│  🛡️  SHADOWNET                      │
+├─────────────────────────────────────┤
+│  > AI Threat Classification         │
+│  > 4 Honeypots | 22 Features        │
+│  > <100ms Classification            │
+│  > Real-time SOC Dashboard          │
+│                                     │
+│  Python FastAPI ML Docker   │
+│                                     │
+│  STATUS: ✓ PRODUCTION               │
+│  STARS: ⭐⭐                         │
+└─────────────────────────────────────┘
 
-`Python` `FastAPI` `Scikit-learn` `Docker` `WebSockets`
-
-[🔗 View Project](https://github.com/SuhasHanamannavar/Turnoverguard)
+[🔗 REPO](https://github.com/SuhasHanamannavar/Turnoverguard)
 
 </td>
 <td width="50%">
 
-### 🧠 ClubMind
-**AI-Powered Knowledge Management**
-- Saves club knowledge from dying
-- AI auto-tagging system
-- Natural language queries
-- PDF handover reports
+┌─────────────────────────────────────┐
+│  🧠  CLUBMIND                        │
+├─────────────────────────────────────┤
+│  > Knowledge Preservation           │
+│  > AI Auto-tagging                  │
+│  > Natural Language Queries         │
+│  > PDF Handover Reports             │
+│                                     │
+│  Flutter Dart Supabase AI   │
+│                                     │
+│  STATUS: ✓ PRODUCTION               │
+│  STARS: ⭐                          │
+└─────────────────────────────────────┘
 
-`Flutter` `Dart` `Supabase` `Claude API`
-
-[🔗 View Project](https://github.com/SuhasHanamannavar/clubmind)
+[🔗 REPO](https://github.com/SuhasHanamannavar/clubmind)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🤖 Pinchu
-**Desktop AI Companion**
-- Voice interaction
-- System automation
-- Context-aware responses
+┌─────────────────────────────────────┐
+│  🤖  PINCHU                         │
+├─────────────────────────────────────┤
+│  > Desktop AI Companion             │
+│  > Voice Interaction                │
+│  > System Automation                │
+│  > Context-Aware                    │
+│                                     │
+│  Python Desktop AI Voice    │
+│                                     │
+│  STATUS: ✓ ACTIVE                   │
+│  STARS: ⭐                          │
+└─────────────────────────────────────┘
 
-`Python` `Desktop` `AI` `Automation`
-
-[🔗 View Project](https://github.com/SuhasHanamannavar/pinchu)
+[🔗 REPO](https://github.com/SuhasHanamannavar/pinchu)
 
 </td>
 <td width="50%">
 
-### ⛓️ FundChain
-**Blockchain Fundraising**
-- Transparent donations
-- Tamper-proof tracking
-- Cryptographic verification
+┌─────────────────────────────────────┐
+│  ⛓️  FUNDCHAIN                      │
+├─────────────────────────────────────┤
+│  > Blockchain Fundraising           │
+│  > Transparent Donations            │
+│  > Tamper-Proof Tracking            │
+│  > Crypto Verification              │
+│                                     │
+│  Dart Blockchain Algorand     │
+│                                     │
+│  STATUS: ✓ PRODUCTION               │
+│  STARS: -                           │
+└─────────────────────────────────────┘
 
-`Dart` `Blockchain` `Algorand`
-
-[🔗 View Project](https://github.com/SuhasHanamannavar/FundChain)
+[🔗 REPO](https://github.com/SuhasHanamannavar/FundChain)
 
 </td>
 </tr>
@@ -81,100 +113,67 @@ When I built ShadowNet, I stayed up until **4 AM** debugging WebSocket connectio
 
 ---
 
-## 🛠️ Tech Stack
+## `> cat skills.json`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+```json
+{
+  "languages": ["Python", "JavaScript", "TypeScript", "Dart", "C++"],
+  "backend": ["FastAPI", "Node.js", "REST APIs", "WebSockets"],
+  "frontend": ["React", "Flutter", "HTML/CSS"],
+  "databases": ["SQLite", "PostgreSQL", "Supabase"],
+  "ai_ml": ["Scikit-learn", "Groq API", "Claude API", "LLMs"],
+  "devops": ["Docker", "Git"],
+  "vibe": "I don't stop until it works"
+}
 </div>
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SuhasHanamannavar&show_icons=true&theme=radical&hide_border=true" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhasHanamannavar&theme=radical&hide_border=true" height="180"/>
-
+Python
+JavaScript
+TypeScript
+Dart
+Flutter
+FastAPI
+Docker
+Git
 </div>
-
+> neofetch --stats
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasHanamannavar&layout=compact&theme=radical&hide_border=true" height="160"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=SuhasHanamannavar&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00FF9F&icon_color=00FF9F&text_color=C9D1D9" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhasHanamannavar&theme=transparent&hide_border=true&background=0D1117&stroke=00FF9F&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F" height="170"/>
 </div>
-
----
-
-## 🏆 Trophies
-
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SuhasHanamannavar&theme=radical&no-frame=true&column=7" width="100%"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasHanamannavar&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9" height="140"/>
 </div>
-
----
-
-## 📈 Activity Graph
-
-[![Suhas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuhasHanamannavar&theme=redical&hide_border=true)]()
-
----
-
-## 🎯 Current Status
-
-```python
-class Suhas:
-    def __init__(self):
-        self.age = 18
-        self.location = "Bangalore, India"
-        self.status = "Building things that work"
-        self.obsession = "Shipping code"
-        self.sleep_schedule = "What sleep schedule?"
-    
-    def current_quest(self):
-        return "Finding a team that moves fast and ships real code"
-    
-    def philosophy(self):
-        return "I don't stop until it works. Period."
-🤝 Let's Connect
+> achievements --list
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SuhasHanamannavar&theme=transparent&no-frame=true&column=7&margin-w=10" width="100%"/>
+</div>
+> activity --graph
+Activity Graph ()
+> status --current
+<div align="center">
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   🟢 CURRENT STATUS: OPEN TO WORK                           │
+│                                                              │
+│   > Looking for: Full Stack Engineer Intern                  │
+│   > Availability: Immediate                                  │
+│   > Location: Remote (India)                                 │
+│   > Timezone: Flexible                                       │
+│                                                              │
+│   > "Give me a problem. I'll fix it."                        │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+</div>
+> contact --show
+<div align="center">
 Email (mailto:hanamannavarsuhas17@gmail.com)
 GitHub (https://github.com/SuhasHanamannavar)
+</div>
 <div align="center">
-Thanks for visiting! Now go star my repos ⭐
+> EOF
+Thanks for visiting. Now go star my repos. ⭐
 </div>
 ```
-🔧 TOOLS NEEDED
-Tool	Purpose	Free?
-readme-typing-svg (https://readme-typing-svg.demolab.com)	Animated typing header	✅
-github-readme-stats (https://github-readme-stats.vercel.app)	Stats cards	✅
-github-readme-streak-stats (https://streak-stats.demolab.com)	Streak tracking	✅
-github-profile-trophy (https://github-profile-trophy.vercel.app)	Trophy badges	✅
-github-readme-activity-graph (https://github-readme-activity-graph.vercel.app)	Activity graph	✅
-shields.io (https://shields.io)	Tech stack badges	✅
-<!--
-**SuhasHanamannavar/SuhasHanamannavar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

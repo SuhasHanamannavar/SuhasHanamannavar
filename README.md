@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=radial&color=0:0D1117,50:00FF9F,100:0D1117&height=300§ion=header&text=SUHAS%20HANAMANNAVAR&fontSize=50&fontColor=00FF9F&fontAlignY=35&desc=18%20|%20BUILDER%20|%20SHIPPING%20CODE&descSize=18&descAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9F,100:0D1117&height=220§ion=header&text=SUHAS%20HANAMANNAVAR&fontSize=40&fontColor=00FF9F&fontAlignY=35&desc=18%20|%20BUILDER%20|%20BANGALORE&descSize=16&descAlignY=55&animation=fadeIn&duration=1000" width="100%"/>
 
 </div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=1500&pause=300&color=00FF9F¢er=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=I+don't+sleep+until+it+works;%F0%9F%94%A5+18+year+old+building+things+that+matter;%E2%9A%A1+Shipping+real+code+since+2024)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1200&pause=200&color=00FF9F¢er=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=I+don't+sleep+until+it+works;%F0%9F%94%A5+Building+things+that+matter)
 
 </div>
 
@@ -14,166 +14,112 @@
 
 <div align="center">
 
-╔══════════════════════════════════════════════════════════════╗
-║  > SYSTEM STATUS: ONLINE                                    ║
-║  > AGE: 18 | LOCATION: BANGALORE, INDIA                     ║
-║  > STATUS: BUILDING THINGS THAT WORK                        ║
-║  > SLEEP SCHEDULE: WHAT SLEEP SCHEDULE?                     ║
-║  > CURRENT_QUEST: FIND_A_TEAM_THAT_SHIPS                    ║
-╚══════════════════════════════════════════════════════════════╝
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)]()
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 
 </div>
 
 ---
 
-## `> ls projects/ --sort=awesome`
+<div align="center">
 
-<table>
-<tr>
-<td width="50%">
+### 🛡️ ShadowNet
+**AI Threat Classification Platform**
+**4 Honeypots | 22 Features | <100ms | Real-time Dashboard**
 
-┌─────────────────────────────────────┐
-│  🛡️  SHADOWNET                      │
-├─────────────────────────────────────┤
-│  > AI Threat Classification         │
-│  > 4 Honeypots | 22 Features        │
-│  > <100ms Classification            │
-│  > Real-time SOC Dashboard          │
-│                                     │
-│  Python FastAPI ML Docker   │
-│                                     │
-│  STATUS: ✓ PRODUCTION               │
-│  STARS: ⭐⭐                         │
-└─────────────────────────────────────┘
+`Python` `FastAPI` `Scikit-learn` `Docker` `WebSockets`
 
-[🔗 REPO](https://github.com/SuhasHanamannavar/Turnoverguard)
-
-</td>
-<td width="50%">
-
-┌─────────────────────────────────────┐
-│  🧠  CLUBMIND                        │
-├─────────────────────────────────────┤
-│  > Knowledge Preservation           │
-│  > AI Auto-tagging                  │
-│  > Natural Language Queries         │
-│  > PDF Handover Reports             │
-│                                     │
-│  Flutter Dart Supabase AI   │
-│                                     │
-│  STATUS: ✓ PRODUCTION               │
-│  STARS: ⭐                          │
-└─────────────────────────────────────┘
-
-[🔗 REPO](https://github.com/SuhasHanamannavar/clubmind)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-┌─────────────────────────────────────┐
-│  🤖  PINCHU                         │
-├─────────────────────────────────────┤
-│  > Desktop AI Companion             │
-│  > Voice Interaction                │
-│  > System Automation                │
-│  > Context-Aware                    │
-│                                     │
-│  Python Desktop AI Voice    │
-│                                     │
-│  STATUS: ✓ ACTIVE                   │
-│  STARS: ⭐                          │
-└─────────────────────────────────────┘
-
-[🔗 REPO](https://github.com/SuhasHanamannavar/pinchu)
-
-</td>
-<td width="50%">
-
-┌─────────────────────────────────────┐
-│  ⛓️  FUNDCHAIN                      │
-├─────────────────────────────────────┤
-│  > Blockchain Fundraising           │
-│  > Transparent Donations            │
-│  > Tamper-Proof Tracking            │
-│  > Crypto Verification              │
-│                                     │
-│  Dart Blockchain Algorand     │
-│                                     │
-│  STATUS: ✓ PRODUCTION               │
-│  STARS: -                           │
-└─────────────────────────────────────┘
-
-[🔗 REPO](https://github.com/SuhasHanamannavar/FundChain)
-
-</td>
-</tr>
-</table>
+[![View Project](https://img.shields.io/badge/-View_Project-00FF9F?style=for-the-badge)](https://github.com/SuhasHanamannavar/Turnoverguard)
 
 ---
 
-## `> cat skills.json`
+### 🧠 ClubMind
+**AI Knowledge Preservation App**
+**Auto-tagging | NL Queries | PDF Reports**
+
+`Flutter` `Dart` `Supabase` `Claude API`
+
+[![View Project](https://img.shields.io/badge/-View_Project-00FF9F?style=for-the-badge)](https://github.com/SuhasHanamannavar/clubmind)
+
+---
+
+### 🤖 Pinchu
+**Desktop AI Companion**
+**Voice | Automation | Context-Aware**
+
+`Python` `Desktop` `AI` `Voice`
+
+[![View Project](https://img.shields.io/badge/-View_Project-00FF9F?style=for-the-badge)](https://github.com/SuhasHanamannavar/pinchu)
+
+---
+
+### ⛓️ FundChain
+**Blockchain Fundraising**
+**Transparent | Tamper-Proof | Crypto**
+
+`Dart` `Blockchain` `Algorand`
+
+[![View Project](https://img.shields.io/badge/-View_Project-00FF9F?style=for-the-badge)](https://github.com/SuhasHanamannavar/FundChain)
+
+</div>
+
+---
 
 <div align="center">
 
-```json
-{
-  "languages": ["Python", "JavaScript", "TypeScript", "Dart", "C++"],
-  "backend": ["FastAPI", "Node.js", "REST APIs", "WebSockets"],
-  "frontend": ["React", "Flutter", "HTML/CSS"],
-  "databases": ["SQLite", "PostgreSQL", "Supabase"],
-  "ai_ml": ["Scikit-learn", "Groq API", "Claude API", "LLMs"],
-  "devops": ["Docker", "Git"],
-  "vibe": "I don't stop until it works"
-}
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=SuhasHanamannavar&show_icons=true&theme=radical&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhasHanamannavar&theme=radical&hide_border=true" height="170"/>
+
 </div>
+
 <div align="center">
-Python
-JavaScript
-TypeScript
-Dart
-Flutter
-FastAPI
-Docker
-Git
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasHanamannavar&layout=compact&theme=radical&hide_border=true" height="140"/>
+
 </div>
-> neofetch --stats
+
+---
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SuhasHanamannavar&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00FF9F&icon_color=00FF9F&text_color=C9D1D9" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuhasHanamannavar&theme=transparent&hide_border=true&background=0D1117&stroke=00FF9F&ring=00FF9F&fire=00FF9F&currStreakLabel=00FF9F" height="170"/>
+
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=SuhasHanamannavar&theme=radical&no-frame=true&column=7" width="100%"/>
+
 </div>
+
+---
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasHanamannavar&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00FF9F&text_color=C9D1D9" height="140"/>
+
+### 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SuhasHanamannavar&theme=redical&hide_border=true)]()
+
 </div>
-> achievements --list
+
+---
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SuhasHanamannavar&theme=transparent&no-frame=true&column=7&margin-w=10" width="100%"/>
+
+### 🤝 Connect
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanamannavarsuhas17@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SuhasHanamannavar)
+
 </div>
-> activity --graph
-Activity Graph ()
-> status --current
+
 <div align="center">
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   🟢 CURRENT STATUS: OPEN TO WORK                           │
-│                                                              │
-│   > Looking for: Full Stack Engineer Intern                  │
-│   > Availability: Immediate                                  │
-│   > Location: Remote (India)                                 │
-│   > Timezone: Flexible                                       │
-│                                                              │
-│   > "Give me a problem. I'll fix it."                        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+
+**⭐ Star my repos if you like what you see**
+
 </div>
-> contact --show
-<div align="center">
-Email (mailto:hanamannavarsuhas17@gmail.com)
-GitHub (https://github.com/SuhasHanamannavar)
-</div>
-<div align="center">
-> EOF
-Thanks for visiting. Now go star my repos. ⭐
-</div>
-```

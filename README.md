@@ -26,10 +26,28 @@
 ### 💻 Currently Coding
 
 <!-- Terminal-style tech stack display -->
-<img src="https://github-readme-terminal.vercel.app/api/terminal?username=SuhasHanamannavar&theme=dark&title=Currently+Coding&lines=JavaScript+%7C+TypeScript+%7C+React;Python+%7C+Node.js+%7C+Express;HTML5+%7C+CSS3+%7C+Tailwind;MongoDB+%7C+PostgreSQL+%7C+Redis;Docker+%7C+AWS+%7C+Git;Next.js+%7C+Vue+%7C+GraphQL" alt="Terminal" width="450"/>
-
+<div align="center">
+  <div style="background: #1e1e1e; border-radius: 10px; padding: 0; width: 450px; text-align: left; font-family: 'Fira Code', 'Monaco', monospace; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+    <!-- Title bar -->
+    <div style="background: #2d2d2d; padding: 10px 15px; border-radius: 10px 10px 0 0; display: flex; align-items: center; gap: 8px;">
+      <span style="width: 12px; height: 12px; background: #ff5f56; border-radius: 50%; display: inline-block;"></span>
+      <span style="width: 12px; height: 12px; background: #ffbd2e; border-radius: 50%; display: inline-block;"></span>
+      <span style="width: 12px; height: 12px; background: #27ca40; border-radius: 50%; display: inline-block;"></span>
+      <span style="color: #888; margin-left: 15px; font-size: 13px;">currently-coding</span>
+    </div>
+    <!-- Terminal content -->
+    <div style="padding: 15px 20px; color: #d4d4d4; font-size: 13px; line-height: 1.8;">
+      <span style="color: #27ca40;">➜</span> <span style="color: #569cd6;">~</span> <span style="color: #dcdcaa;">ls</span> <span style="color: #ce9178;">-la</span> tech-stack/<br>
+      <span style="color: #9cdcfe;">JavaScript</span> &nbsp;&nbsp; <span style="color: #9cdcfe;">TypeScript</span> &nbsp;&nbsp; <span style="color: #9cdcfe;">React</span><br>
+      <span style="color: #9cdcfe;">Python</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #9cdcfe;">Node.js</span> &nbsp;&nbsp;&nbsp; <span style="color: #9cdcfe;">Express</span><br>
+      <span style="color: #9cdcfe;">HTML5</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #9cdcfe;">CSS3</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #9cdcfe;">Tailwind</span><br>
+      <span style="color: #9cdcfe;">MongoDB</span> &nbsp;&nbsp; <span style="color: #9cdcfe;">PostgreSQL</span> <span style="color: #9cdcfe;">Docker</span><br>
+      <span style="color: #9cdcfe;">AWS</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #9cdcfe;">Git</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color: #9cdcfe;">Next.js</span><br>
+      <span style="color: #27ca40;">➜</span> <span style="color: #569cd6;">~</span> <span style="color: #d4d4d4;">█</span>
+    </div>
+  </div>
+</div>username=SuhasHanamannavar&theme=dark&title=Currently+Coding&lines=JavaScript+%7C+TypeScript+%7C+React;Python+%7C+Node.js+%7C+Express;HTML5+%7C+CSS3+%7C
 ---
-
 ### 🛠️ Tech Stack
 
 <!-- Languages and Tools -->

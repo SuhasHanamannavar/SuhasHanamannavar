@@ -2,8 +2,7 @@
 
 <!-- Yellow circular profile picture effect -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7D044&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Suhas+%F0%9F%91%8B;Full+Stack+Developer+%F0%9%9A%80;Creative+Problem+Solver+%E2%9C%A8;Always+Learning+New+Things+%F0%9%93%9A" alt="Typing SVG" />
-</a>
+  
 
 <br/>
 

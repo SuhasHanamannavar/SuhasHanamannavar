@@ -45,7 +45,6 @@ I'm currently accepting **contract and full-time opportunities** for:
 If you're building production AI systems and need an engineer who can debug complex codebases and ship clean, tested solutions — let's talk.
 
 📧 **Email:** hanamannavarsuhas17@gmail.com
- **GitHub:** You're already here 
 
 ---
 

@@ -1,10 +1,10 @@
-### 👋 Hi, I'm Suhas Hanamannavar
+###  Hi, I'm Suhas Hanamannavar
 
 I'm an open-source engineer based in Bangalore, India, specializing in **AI/LLM infrastructure** and developer tooling. I build production-grade systems with clean code, strong testing practices, and careful attention to maintainability.
 
 ---
 
-### 🏆 Open Source Contributions
+###  Open Source Contributions
 
 I believe in contributing back to the tools that power our industry. My work has been reviewed and accepted by maintainers of major AI infrastructure projects:
 
@@ -20,11 +20,10 @@ I believe in contributing back to the tools that power our industry. My work has
 - **[PR #1568](https://github.com/MakazhanAlpamys/Soup/pull/1568):** CLI testing — fixed `json.loads()` test isolation from stderr warnings (Click 8.2 mixes stderr into `result.output`)
 - **[PR #1571](https://github.com/MakazhanAlpamys/Soup/pull/1571):** Network security — added remedy hints to private IP refusal messages, consolidated `0.0.0.0` handling across modules
 
-> *Maintainer feedback: "good work" · "correct fix and a clear one" · "several things here are done well"*
 
 ---
 
-### 🛠️ Technical Stack
+###  Technical Stack
 
 | Category | Technologies |
 |---|---|
@@ -35,19 +34,18 @@ I believe in contributing back to the tools that power our industry. My work has
 
 ---
 
-### 💼 Open To
+###  Open To
 
 I'm currently accepting **contract and full-time opportunities** for:
-- 🤖 LLM Agent development and AI infrastructure
-- 📚 RAG system design and implementation
-- 🔧 AI developer tooling and CLI tools
-- 🐍 Python backend development for AI products
+-  LLM Agent development and AI infrastructure
+-  RAG system design and implementation
+-  AI developer tooling and CLI tools
+-  Python backend development for AI products
 
 If you're building production AI systems and need an engineer who can debug complex codebases and ship clean, tested solutions — let's talk.
 
 📧 **Email:** hanamannavarsuhas17@gmail.com
-🐙 **GitHub:** You're already here 😄
+ **GitHub:** You're already here 
 
 ---
 
-*"The best code is not just correct — it's maintainable. I write code that other engineers will thank you for."*

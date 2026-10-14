@@ -2,7 +2,7 @@
 
 I'm an open-source engineer based in Bangalore, specializing in **AI/LLM infrastructure** and developer tooling. I build production-grade systems with clean code, strong testing practices, and careful attention to maintainability.
 
----
+---  
 
 ###  Open Source Contributions
 
